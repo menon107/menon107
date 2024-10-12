@@ -1,3 +1,29 @@
+<style>
+        h1 {
+            text-align: center;
+            animation: fadeInBounce 2s ease-in-out;
+            color: #333;
+        }
+
+        @keyframes fadeInBounce {
+            0% {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            50% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            70% {
+                transform: translateY(-15px);
+            }
+            100% {
+                transform: translateY(0);
+            }
+        }
+    </style>
+
+
 <h1 align="center">Hi 👋, I'm A Ayush Menon</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
