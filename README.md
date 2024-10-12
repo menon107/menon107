@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24px" fill="black">
-    Hi 👋, I'm Ayush Menon
-  </text>
-  <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" begin="0s" dur="1s" repeatCount="indefinite"/>
-</svg>
+<h1 align="center">
+  <img src="https://svgshare.com/i/uiG.svg" alt="Hi 👋, I'm Ayush Menon" width="400px"/>
+</h1>
+
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - I am currently working on projects based on **MERN stack**
