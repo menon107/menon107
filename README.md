@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://svgshare.com/i/uiG.svg" alt="Hi 👋, I'm Ayush Menon" width="400px"/>
-</h1>
-
+<h1 align="center">Hi 👋, I'm A Ayush Menon</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - I am currently working on projects based on **MERN stack**
