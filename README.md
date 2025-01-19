@@ -1,5 +1,6 @@
 ![Banner](./assets/banner.gif)
 Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885)
+
 <h1 align="center">Hi 👋, I'm A Ayush Menon</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
